@@ -1,7 +1,13 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  body: MyText
+comment-1:
+  article: article-1
+  body: A Comment
 
-two:
-  body: MyText
+comment-2:
+  article: article-1
+  body: "Some Comment"
+
+comment-3:
+  article: article-2
+  body: Comment for other article
